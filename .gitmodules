@@ -1,0 +1,9 @@
+[submodule "vendor/gamepad"]
+	path = vendor/gamepad
+	url = https://github.com/piecioshka/gamepad.js.git
+[submodule "vendor/shower/core"]
+	path = vendor/shower/core
+	url = https://github.com/shower/core
+[submodule "vendor/shower/ribbon"]
+	path = vendor/shower/ribbon
+	url = https://github.com/shower/ribbon.git
