@@ -1,11 +1,7 @@
 # shower-gamepad
 
-Support Gamepad API in [shower.js][1] (presentation architecture).
+Support `Gamepad API` in [shower.js](http://shwr.me/) (presentation architecture).
 
 ### License
 
-[The MIT License][0]
-
-
-[0]: http://piecioshka.mit-license.org/
-[1]: http://shwr.me/
+[The MIT License](http://piecioshka.mit-license.org/)
