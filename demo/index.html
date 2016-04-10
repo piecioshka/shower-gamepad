@@ -5,25 +5,22 @@
     <title>shower-gamepad</title>
     <meta name="viewport" content="width=792, user-scalable=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <link rel="stylesheet" href="vendors/shower/ribbon/styles/screen.css"/>
+    <link rel="stylesheet" href="../node_modules/shower-ribbon/styles/screen-16x10.css"/>
 </head>
-<body class="list">
+<body class="shower list">
     <section class="slide">
-        <div>
-            <h2>Hello World</h2>
-        </div>
+        <h2 class="shout">Hello World</h2>
     </section>
 
-    <section class="slide shout">
-        <div>
-            <h2>Thanks!</h2>
-        </div>
+    <section class="slide">
+        <h2 class="shout">Thanks!</h2>
     </section>
 
     <div class="progress"><div></div></div>
 
-    <script src="vendors/shower/core/shower.js"></script>
-    <script src="vendors/gamepad/dist/gamepad.js"></script>
-    <script src="dist/shower.gamepad.js"></script>
+    <script src="../node_modules/shower-core/shower.min.js"></script>
+    <script src="../node_modules/super-event-emitter/dist/super-event-emitter.js"></script>
+    <script src="../node_modules/gamepad-api/dist/gamepad.js"></script>
+    <script src="../dist/shower.gamepad.js"></script>
 </body>
 </html>

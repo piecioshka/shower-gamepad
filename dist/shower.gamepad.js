@@ -1,7 +1,11 @@
-/*global Gamepad, shower */
-
-(function () {
+(function (root) {
     'use strict';
+
+    // @see: https://www.npmjs.com/package/gamepad-api
+    var Gamepad = root.Gamepad;
+
+    // @see: https://www.npmjs.com/package/shower-core
+    var shower = root.shower;
 
     if (!Gamepad) {
         throw new ReferenceError('"Gamepad" library is required');
@@ -48,4 +52,4 @@
     Gamepad.on('shape:square', function () {
         shower.prev();
     });
-}());
+}(this));

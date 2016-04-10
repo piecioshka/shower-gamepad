@@ -1,8 +1,38 @@
 {
-    "private": true,
+    "name": "shower-gamepad",
+    "version": "1.0.0",
+    "description": "Support `Gamepad API` in [shower.js](http://shwr.me/) (presentation architecture).",
+    "license": "MIT",
+    "scripts": {
+        "clear": "rm -rf node_modules/ npm-debug.log"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/piecioshka/shower-gamepad.git"
+    },
+    "files": [
+        "dist",
+        "package.json",
+        "README.md"
+    ],
+    "author": {
+        "name": "Piotr Kowalski",
+        "email": "piecioshka@gmail.com",
+        "url": "http://piecioshka.pl"
+    },
+    "keywords": [
+        "gamepad",
+        "api",
+        "shower",
+        "presentation",
+        "slides",
+        "support"
+    ],
     "devDependencies": {
-        "gamepad.js": "https://github.com/piecioshka/gamepad.js.git",
-        "shower-core": "https://github.com/shower/core.git",
-        "shower-ribbon": "https://github.com/shower/ribbon.git"
-    }
+        "gamepad-api": "^1.0.0",
+        "shower-core": "^2.0.6",
+        "shower-ribbon": "^2.0.4",
+        "super-event-emitter": "^4.0.0"
+    },
+    "main": "dist/shower.gamepad.js"
 }
