@@ -1,21 +1,23 @@
 # shower-gamepad
 
+[![npm version](https://badge.fury.io/js/shower-gamepad.svg)](https://badge.fury.io/js/shower-gamepad)
+
 > Support `Gamepad API` in [shower.js](http://shwr.me/) (presentation architecture).
 
 ## Install
 
 ```
-npm i shower-gamepad
+npm install shower-gamepad
 ```
 
 ## Setup
 
-On main index.html file, please add on the bottom:
+On main `index.html` file, please add on the bottom:
 
-```
+```html
 <script src="../node_modules/shower-core/shower.min.js"></script>
 <script src="../node_modules/super-event-emitter/dist/super-event-emitter.js"></script>
-<script src="../node_modules/gamepad-api/dist/gamepad.js"></script>
+<script src="../node_modules/gamepad-api/dist/gamepad-api.js"></script>
 <script src="../dist/shower.gamepad.js"></script>
 ```
 

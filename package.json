@@ -1,7 +1,7 @@
 {
     "name": "shower-gamepad",
-    "version": "1.0.0",
-    "description": "Support `Gamepad API` in [shower.js](http://shwr.me/) (presentation architecture).",
+    "version": "1.0.1",
+    "description": "Support Gamepad API in shower.js (presentation architecture).",
     "license": "MIT",
     "scripts": {
         "clear": "rm -rf node_modules/ npm-debug.log"
@@ -29,7 +29,7 @@
         "support"
     ],
     "devDependencies": {
-        "gamepad-api": "^1.0.0",
+        "gamepad-api": "^1.0.1",
         "shower-core": "^2.0.6",
         "shower-ribbon": "^2.0.4",
         "super-event-emitter": "^4.0.0"
