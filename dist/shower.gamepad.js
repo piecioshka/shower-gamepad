@@ -4,11 +4,11 @@
     'use strict';
 
     if (!Gamepad) {
-        throw new ReferenceError('gamepad.js is required');
+        throw new ReferenceError('"Gamepad" library is required');
     }
 
     if (!shower) {
-        throw new ReferenceError('shower.js is required');
+        throw new ReferenceError('"shower" library is required');
     }
 
     // Joysticks

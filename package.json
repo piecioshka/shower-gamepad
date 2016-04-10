@@ -1,8 +1,8 @@
 {
-  "private": true,
-  "devDependencies": {},
-  "dependencies": {
-    "gulp": "^3.9.0",
-    "gulp-eslint": "^1.0.0"
-  }
+    "private": true,
+    "devDependencies": {
+        "gamepad.js": "https://github.com/piecioshka/gamepad.js.git",
+        "shower-core": "https://github.com/shower/core.git",
+        "shower-ribbon": "https://github.com/shower/ribbon.git"
+    }
 }
