@@ -17,9 +17,9 @@
     },
     "devDependencies": {
         "gamepad-api": "^1.0.1",
-        "shower-core": "^2.0.6",
-        "shower-ribbon": "^2.0.4",
-        "super-event-emitter": "^4.0.0"
+        "shower-core": "^2.0.7",
+        "shower-ribbon": "^2.0.6",
+        "super-event-emitter": "^4.1.4"
     },
     "keywords": [
         "gamepad",
