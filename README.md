@@ -1,13 +1,14 @@
-# shower-gamepad
+# shower-gamepad ([npm](https://www.npmjs.com/package/shower-gamepad))
 
 [![npm version](https://badge.fury.io/js/shower-gamepad.svg)](https://badge.fury.io/js/shower-gamepad)
+![](https://img.shields.io/npm/dt/shower-gamepad.svg)
 
-> Support `Gamepad API` in [shower.js](http://shwr.me/) (presentation architecture).
+> :hammer: Support `Gamepad API` in [shower.js](http://shwr.me/) (presentation architecture).
 
 ## Install
 
 ```
-npm install shower-gamepad
+$ npm install shower-gamepad
 ```
 
 ## Setup
@@ -23,4 +24,4 @@ On main `index.html` file, please add on the bottom:
 
 ### License
 
-[The MIT License](http://piecioshka.mit-license.org/)
+[The MIT License](http://piecioshka.mit-license.org/) @ 2014
