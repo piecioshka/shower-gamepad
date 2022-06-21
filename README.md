@@ -3,12 +3,12 @@
 [![npm version](https://badge.fury.io/js/shower-gamepad.svg)](https://badge.fury.io/js/shower-gamepad)
 ![](https://img.shields.io/npm/dt/shower-gamepad.svg)
 
-> :hammer: Support `Gamepad API` in [shower.js](http://shwr.me/) (presentation architecture).
+:hammer: Support `Gamepad API` in [shower.js](http://shwr.me/) (presentation architecture).
 
 ## Install
 
-```
-$ npm install shower-gamepad
+```bash
+npm install shower-gamepad
 ```
 
 ## Setup
