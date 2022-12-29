@@ -1,10 +1,14 @@
 (function (root) {
     'use strict';
 
-    // @see: https://www.npmjs.com/package/gamepad-api
+    /**
+     * @see https://www.npmjs.com/package/gamepad-api
+     */
     var Gamepad = root.Gamepad;
 
-    // @see: https://www.npmjs.com/package/shower-core
+    /**
+     * @see https://www.npmjs.com/package/shower-core
+     */
     var shower = root.shower;
 
     if (!Gamepad) {
