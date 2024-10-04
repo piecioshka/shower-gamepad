@@ -1,7 +1,9 @@
-# shower-gamepad ([npm](https://www.npmjs.com/package/shower-gamepad))
+# shower-gamepad
 
+[![node version](https://img.shields.io/node/v/shower-gamepad.svg)](https://www.npmjs.com/package/shower-gamepad)
 [![npm version](https://badge.fury.io/js/shower-gamepad.svg)](https://badge.fury.io/js/shower-gamepad)
-![](https://img.shields.io/npm/dt/shower-gamepad.svg)
+[![downloads count](https://img.shields.io/npm/dt/shower-gamepad.svg)](https://www.npmjs.com/package/shower-gamepad)
+[![license](https://img.shields.io/npm/l/shower-gamepad.svg)](https://www.npmjs.com/package/shower-gamepad)
 
 :hammer: Support `Gamepad API` in [shower.js](http://shwr.me/) (presentation architecture).
 
@@ -24,4 +26,4 @@ On main `index.html` file, please add on the bottom:
 
 ### License
 
-[The MIT License](http://piecioshka.mit-license.org/) @ 2014
+[The MIT License](https://piecioshka.mit-license.org/) @ 2014
