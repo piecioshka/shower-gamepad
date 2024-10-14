@@ -3,7 +3,7 @@
 [![node version](https://img.shields.io/node/v/shower-gamepad.svg)](https://www.npmjs.com/package/shower-gamepad)
 [![npm version](https://badge.fury.io/js/shower-gamepad.svg)](https://badge.fury.io/js/shower-gamepad)
 [![downloads count](https://img.shields.io/npm/dt/shower-gamepad.svg)](https://www.npmjs.com/package/shower-gamepad)
-[![license](https://img.shields.io/npm/l/shower-gamepad.svg)](https://www.npmjs.com/package/shower-gamepad)
+[![license](https://img.shields.io/npm/l/shower-gamepad.svg)](https://piecioshka.mit-license.org)
 
 :hammer: Support `Gamepad API` in [shower.js](https://shwr.me/) (presentation architecture).
 
