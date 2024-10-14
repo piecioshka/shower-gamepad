@@ -5,7 +5,7 @@
 [![downloads count](https://img.shields.io/npm/dt/shower-gamepad.svg)](https://www.npmjs.com/package/shower-gamepad)
 [![license](https://img.shields.io/npm/l/shower-gamepad.svg)](https://www.npmjs.com/package/shower-gamepad)
 
-:hammer: Support `Gamepad API` in [shower.js](http://shwr.me/) (presentation architecture).
+:hammer: Support `Gamepad API` in [shower.js](https://shwr.me/) (presentation architecture).
 
 ## Install
 
