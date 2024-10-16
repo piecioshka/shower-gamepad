@@ -1,7 +1,7 @@
 {
     "name": "shower-gamepad",
     "version": "1.0.3",
-    "description": "Support Gamepad API in shower.js (presentation architecture).",
+    "description": "🔨 Support Gamepad API in shower.js (presentation architecture).",
     "license": "MIT",
     "author": {
         "name": "Piotr Kowalski",
