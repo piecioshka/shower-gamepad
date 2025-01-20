@@ -8,13 +8,13 @@
 
 🔨 Support `Gamepad API` in [shower.js](https://shwr.me/) (presentation architecture).
 
-## Install
+## Setup
+
+Installation:
 
 ```bash
 npm install shower-gamepad
 ```
-
-## Setup
 
 On main `index.html` file, please add on the bottom:
 
